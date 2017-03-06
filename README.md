@@ -7,9 +7,9 @@
 專欄目錄：
 
 1. [Android Things Tutorial（一）Hello! Android Things!]()
-2. [Android Things Tutorial（二）建立Android Things開發與執行環境]()
-3. [Android Things Tutorial（三）建立Android Things作業系統]()
-4. [Android Things Tutorial（四）啟動與設定Android Things作業系統]()
-5. [Android Things Tutorial（五）使用Android ADB工具管理Android Things]()
+2. Android Things Tutorial（二）建立Android Things開發與執行環境
+3. Android Things Tutorial（三）建立Android Things作業系統
+4. Android Things Tutorial（四）啟動與設定Android Things作業系統
+5. Android Things Tutorial（五）使用Android ADB工具管理Android Things
 
 待續...
