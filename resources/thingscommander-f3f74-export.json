@@ -1,0 +1,80 @@
+{
+  "control" : {
+    "BCM12" : false,
+    "BCM16" : false,
+    "BCM17" : false,
+    "BCM19" : false,
+    "BCM20" : false,
+    "BCM21" : false,
+    "BCM22" : false,
+    "BCM23" : false,
+    "BCM24" : false,
+    "BCM25" : true,
+    "BCM26" : false,
+    "BCM27" : false,
+    "BCM4" : false,
+    "BCM5" : false,
+    "BCM6" : false
+  },
+  "device" : {
+    "D00" : {
+      "accuracy" : 1,
+      "channel" : 0,
+      "id" : "D00",
+      "isIncrememt" : true,
+      "name" : "Variable resistance",
+      "value" : 62
+    },
+    "D01" : {
+      "accuracy" : 3,
+      "channel" : 1,
+      "id" : "D01",
+      "isIncrememt" : false,
+      "name" : "Photoresistance",
+      "value" : 27
+    },
+    "D02" : {
+      "accuracy" : 1,
+      "channel" : 2,
+      "id" : "D02",
+      "isIncrememt" : true,
+      "name" : "Joystick-X",
+      "value" : 51
+    },
+    "D03" : {
+      "accuracy" : 1,
+      "channel" : 3,
+      "id" : "D03",
+      "isIncrememt" : true,
+      "name" : "Joystick-Y",
+      "value" : 50
+    },
+    "D04" : {
+      "accuracy" : 1,
+      "channel" : 4,
+      "id" : "D04",
+      "isIncrememt" : true,
+      "name" : "Joystick-Button",
+      "value" : 0
+    },
+    "D05" : {
+      "accuracy" : 1,
+      "channel" : 5,
+      "id" : "D05",
+      "isIncrememt" : true,
+      "name" : "MQ2",
+      "value" : 7
+    }
+  },
+  "listener" : {
+    "BCM24" : "true,false",
+    "BCM25" : "true,false"
+  },
+  "monitor" : {
+    "m001" : 21,
+    "m002" : 29
+  },
+  "pwm" : {
+    "PWM0" : false
+  }
+}

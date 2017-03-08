@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "405901711753",
+    "firebase_url": "https://thingscommander-f3f74.firebaseio.com",
+    "project_id": "thingscommander-f3f74",
+    "storage_bucket": "thingscommander-f3f74.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:405901711753:android:381abbf53702315a",
+        "android_client_info": {
+          "package_name": "net.macdidi5.at.thingscommander"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "405901711753-27ua5tmje2dav58e5kjm0k2rp0l66t2f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "net.macdidi5.at.thingscommander",
+            "certificate_hash": "EF2A3810EE94CACEA0CBB7167163F7895E2A3F4C"
+          }
+        },
+        {
+          "client_id": "405901711753-t8m1t6533d112kvr337oe9blfu6cn6ns.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQfudDp5YFWoedBZOurY2_rKzujmLNehQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "405901711753-t8m1t6533d112kvr337oe9blfu6cn6ns.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

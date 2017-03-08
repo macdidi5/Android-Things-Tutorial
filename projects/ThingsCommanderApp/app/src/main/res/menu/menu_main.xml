@@ -1,0 +1,30 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".MainActivity">
+
+    <item
+        android:id="@+id/edit_mode_menu"
+        android:title="Arrangement"
+        app:showAsAction="always"
+        android:icon="@drawable/ic_apps_white_48dp"
+        android:onClick="clickEditMode"/>
+    <item
+        android:id="@+id/connect_menu"
+        android:title="Connect"
+        app:showAsAction="always"
+        android:icon="@drawable/ic_cloud_queue_white_48dp"
+        android:onClick="clickConnect"/>
+    <item
+        android:id="@+id/add_menu"
+        android:title="Add"
+        app:showAsAction="always"
+        android:icon="@drawable/ic_add_circle_outline_white_48dp"
+        android:onClick="clickAdd"/>
+    <item
+        android:id="@+id/door_menu"
+        android:title="Door"
+        app:showAsAction="always"
+        android:icon="@drawable/ic_lock_white_48dp"
+        android:onClick="clickDoor"/>
+</menu>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- 修改為自己申請的 Firebase APP URL -->
+    <string name="firebase_url">------------</string>
+    <!-- 修改為自己設定的節點名稱 -->
+    <string name="firebase_child">------------</string>
+
+    <!-- 修改為自己設定的郵件帳號與密碼，只有在測試階段使用 -->
+    <string name="firebase_email">------------</string>
+    <string name="firebase_password">------------</string>
+</resources>

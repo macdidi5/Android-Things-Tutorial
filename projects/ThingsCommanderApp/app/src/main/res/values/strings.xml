@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">TC App</string>
+
+    <string name="add">Add</string>
+    <string name="connect">Connect</string>
+
+    <string name="rpi_gpio">Raspberry Pi GPIO</string>
+
+    <string name="default_description">Description</string>
+
+    <string name="default_high_descrpiton">High Description</string>
+    <string name="default_low_description">Low Description</string>
+
+    <string name="notify_when_high">Notify when high</string>
+    <string name="notify_when_low">Notify when low</string>
+
+    <string name="message_connected">Connected</string>
+    <string name="message_connect_failed">Connection Failed</string>
+
+    <string name="commander_on">ON</string>
+    <string name="commander_off">OFF</string>
+    <string name="commander_status">STATUS</string>
+    <string name="commander_listen">LISTEN</string>
+
+    <string name="connection_require">Connection require</string>
+
+    <string-array name="gpio_pin_names">
+        <item>BCM4</item>
+        <item>BCM5</item>
+        <item>BCM6</item>
+        <item>BCM12</item>
+        <item>BCM16</item>
+        <item>BCM17</item>
+        <item>BCM19</item>
+        <item>BCM20</item>
+        <item>BCM21</item>
+        <item>BCM22</item>
+        <item>BCM23</item>
+        <item>BCM24</item>
+        <item>BCM25</item>
+        <item>BCM26</item>
+        <item>BCM27</item>
+    </string-array>
+
+</resources>
