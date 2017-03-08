@@ -11,5 +11,20 @@
 3. Android Things Tutorial（三）建立Android Things作業系統
 4. Android Things Tutorial（四）啟動與設定Android Things作業系統
 5. Android Things Tutorial（五）使用Android ADB工具管理Android Things
-
-待續...
+6. Android Things Tutorial（六）第一個Android Things應用程式
+7. Android Things Tutorial（七）認識GPIO、PWM、IIC與SPI
+8. Android Things Tutorial（八）GPIO輸出控制 I - LED
+9. Android Things Tutorial（九）GPIO輸出控制 II - 七段顯示器
+10. Android Things Tutorial（十）GPIO輸入偵測 I - 開關
+11. Android Things Tutorial（十一）GPIO輸入偵測 II - 磁簧開關模組
+12. Android Things Tutorial（十二）GPIO整合應用 - 超音波測距模組
+13. Android Things Tutorial（十三）數位類比轉換器 I - 使用MCP3008
+14. Android Things Tutorial（十四）數位類比轉換器 II - 可變電阻與光敏電阻
+15. Android Things Tutorial（十五）數位類比轉換器 III - MQ2氣體感測模組
+16. Android Things Tutorial（十六）使用IIC設備 I - 三軸感應模組MMA7660FC
+17. Android Things Tutorial（十七）使用IIC設備 II - 環境感應器BMP280
+18. Android Things Tutorial（十八）使用IIC設備 III - 單色顯示器SSD1306
+19. Android Things Tutorial（十九）遠端監控系統 I - 使用Firebase即時資料庫
+20. Android Things Tutorial（二十）遠端監控系統 II - 控制
+21. Android Things Tutorial（二十一）遠端監控系統 III - 監聽
+22. Android Things Tutorial（二十二）整合應用 - ThingsCommander
