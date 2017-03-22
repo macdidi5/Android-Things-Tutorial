@@ -7,8 +7,8 @@
 專欄目錄：
 
 1. [Android Things Tutorial（一）Hello! Android Things!](http://www.codedata.com.tw/java/att01/)
-2. Android Things Tutorial（二）建立Android Things開發與執行環境
-3. Android Things Tutorial（三）建立Android Things作業系統
+2. [Android Things Tutorial（二）建立Android Things開發與執行環境](http://www.codedata.com.tw/java/att02/)
+3. [Android Things Tutorial（三）建立Android Things作業系統](http://www.codedata.com.tw/java/att03/)
 4. Android Things Tutorial（四）啟動與設定Android Things作業系統
 5. Android Things Tutorial（五）使用Android ADB工具管理Android Things
 6. Android Things Tutorial（六）第一個Android Things應用程式
