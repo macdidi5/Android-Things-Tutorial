@@ -10,8 +10,8 @@
 2. [Android Things Tutorial（二）建立Android Things開發與執行環境](http://www.codedata.com.tw/java/att02/)
 3. [Android Things Tutorial（三）建立Android Things作業系統](http://www.codedata.com.tw/java/att03/)
 4. [Android Things Tutorial（四）啟動與設定Android Things作業系統](http://www.codedata.com.tw/java/att04/)
-5. Android Things Tutorial（五）使用Android ADB工具管理Android Things
-6. Android Things Tutorial（六）第一個Android Things應用程式
+5. [Android Things Tutorial（五）使用Android ADB工具管理Android Things](http://www.codedata.com.tw/java/att05/)
+6. [Android Things Tutorial（六）第一個Android Things應用程式](http://www.codedata.com.tw/java/att06/)
 7. Android Things Tutorial（七）認識GPIO、PWM、IIC與SPI
 8. Android Things Tutorial（八）GPIO輸出控制 I - LED
 9. Android Things Tutorial（九）GPIO輸出控制 II - 七段顯示器
