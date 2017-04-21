@@ -13,10 +13,10 @@
 5. [Android Things Tutorial（五）使用Android ADB工具管理Android Things](http://www.codedata.com.tw/java/att05/)
 6. [Android Things Tutorial（六）第一個Android Things應用程式](http://www.codedata.com.tw/java/att06/)
 7. [Android Things Tutorial（七）認識Raspberry Pi的GPIO與基本零件](http://www.codedata.com.tw/java/att07/)
-8. Android Things Tutorial（八）GPIO輸出控制 I - LED
-9. Android Things Tutorial（九）GPIO輸出控制 II - 七段顯示器
-10. Android Things Tutorial（十）GPIO輸入偵測 I - 開關
-11. Android Things Tutorial（十一）GPIO輸入偵測 II - 磁簧開關模組
+8. Android Things Tutorial（八）GPIO輸出 - LED
+9. Android Things Tutorial（九）GPIO輸出 - 七段顯示器
+10. Android Things Tutorial（十）GPIO輸入 - 開關
+11. Android Things Tutorial（十一）GPIO輸入 - 磁簧開關模組
 12. Android Things Tutorial（十二）GPIO整合應用 - 超音波測距模組
 13. Android Things Tutorial（十三）數位類比轉換器 I - 使用MCP3008
 14. Android Things Tutorial（十四）數位類比轉換器 II - 可變電阻與光敏電阻
