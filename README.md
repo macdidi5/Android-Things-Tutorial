@@ -13,18 +13,20 @@
 5. [Android Things Tutorial（五）使用Android ADB工具管理Android Things](http://www.codedata.com.tw/java/att05/)
 6. [Android Things Tutorial（六）第一個Android Things應用程式](http://www.codedata.com.tw/java/att06/)
 7. [Android Things Tutorial（七）認識Raspberry Pi的GPIO與基本零件](http://www.codedata.com.tw/java/att07/)
-8. Android Things Tutorial（八）GPIO輸出 - LED
+8. [Android Things Tutorial（八）GPIO輸出 - LED](http://www.codedata.com.tw/java/att08/)
 9. Android Things Tutorial（九）GPIO輸出 - 七段顯示器
-10. Android Things Tutorial（十）GPIO輸入 - 開關
-11. Android Things Tutorial（十一）GPIO輸入 - 磁簧開關模組
-12. Android Things Tutorial（十二）GPIO整合應用 - 超音波測距模組
-13. Android Things Tutorial（十三）數位類比轉換器 I - 使用MCP3008
-14. Android Things Tutorial（十四）數位類比轉換器 II - 可變電阻與光敏電阻
-15. Android Things Tutorial（十五）數位類比轉換器 III - MQ2氣體感測模組
-16. Android Things Tutorial（十六）使用IIC設備 I - 三軸感應模組MMA7660FC
-17. Android Things Tutorial（十七）使用IIC設備 II - 環境感應器BMP280
-18. Android Things Tutorial（十八）使用IIC設備 III - 單色顯示器SSD1306
-19. Android Things Tutorial（十九）遠端監控系統 I - 使用Firebase即時資料庫
-20. Android Things Tutorial（二十）遠端監控系統 II - 控制
-21. Android Things Tutorial（二十一）遠端監控系統 III - 監聽
-22. Android Things Tutorial（二十二）整合應用 - ThingsCommander
+10. Android Things Tutorial（十）GPIO輸出 - 繼電器模組 
+11. Android Things Tutorial（十一）GPIO輸入 - 開關
+12. Android Things Tutorial（十二）GPIO輸入 - 磁簧開關模組
+13. Android Things Tutorial（十三）GPIO輸出入整合應用 - 雷射光接收模組
+14. Android Things Tutorial（十四）GPIO輸出入整合應用 - 超音波測距模組
+15. Android Things Tutorial（十五）數位類比轉換器MCP3008
+16. Android Things Tutorial（十四）數位類比轉換器 - 可變電阻與光敏電阻
+17. Android Things Tutorial（十五）數位類比轉換器 - MQ2氣體感測模組
+18. Android Things Tutorial（十六）IIC - 三軸感應模組MMA7660FC
+19. Android Things Tutorial（十七）IIC - 環境感應器BMP280
+20. Android Things Tutorial（十八）IIC - 單色顯示器SSD1306
+21. Android Things Tutorial（十九）遠端監控系統 I - 使用Firebase即時資料庫
+22. Android Things Tutorial（二十）遠端監控系統 II - 控制
+23. Android Things Tutorial（二十一）遠端監控系統 III - 監聽
+24. Android Things Tutorial（二十二）整合應用 - ThingsCommander
