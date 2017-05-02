@@ -14,7 +14,7 @@
 6. [Android Things Tutorial（六）第一個Android Things應用程式](http://www.codedata.com.tw/java/att06/)
 7. [Android Things Tutorial（七）認識Raspberry Pi的GPIO與基本零件](http://www.codedata.com.tw/java/att07/)
 8. [Android Things Tutorial（八）GPIO輸出 - LED](http://www.codedata.com.tw/java/att08/)
-9. Android Things Tutorial（九）GPIO輸出 - 七段顯示器
+9. [Android Things Tutorial（九）GPIO輸出 - 七段顯示器](http://www.codedata.com.tw/java/att09/)
 10. Android Things Tutorial（十）GPIO輸出 - 繼電器模組 
 11. Android Things Tutorial（十一）GPIO輸入 - 開關
 12. Android Things Tutorial（十二）GPIO輸入 - 磁簧開關模組
