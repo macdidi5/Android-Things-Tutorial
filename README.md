@@ -17,7 +17,7 @@
 9. [Android Things Tutorial（九）GPIO輸出 - 七段顯示器](http://www.codedata.com.tw/java/att09/)
 10. [Android Things Tutorial（十）GPIO輸出 - 繼電器模組](http://www.codedata.com.tw/java/att10/)
 11. [Android Things Tutorial（十一）GPIO輸入 - 開關](http://www.codedata.com.tw/java/att11/)
-12. Android Things Tutorial（十二）GPIO輸入 - 磁簧開關模組
+12. [Android Things Tutorial（十二）GPIO輸入 - 磁簧開關模組](http://www.codedata.com.tw/java/att12/)
 13. Android Things Tutorial（十三）GPIO輸出入整合應用 - 雷射光接收模組
 14. Android Things Tutorial（十四）GPIO輸出入整合應用 - 超音波測距模組
 15. Android Things Tutorial（十五）數位類比轉換器MCP3008
